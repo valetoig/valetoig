@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @valetoig
-- 👀 I’m interested in developer :)
+- 👋 Hi, I’m Valeria 
+- 👀 I’m looking for developers😊
 - 🌱 I’m currently learnings python.
 - 📫 How to reach me valeria.toro@accenture.com
 
