@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valeria 
+- 👋 Hi, I’m Valeria Toro.
 - 👀 I’m looking for developers😊
 - 🌱 I’m currently learnings python.
 - 📫 How to reach me valeria.toro@accenture.com
