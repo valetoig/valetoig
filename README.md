@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Valeria Toro.
-- 👀 I’m looking for developers😊
-- 🌱 I’m currently learnings python.
+- 👋 Hi, I’m Valeria Toro. I'm an IT recruiter.
+- 👀 I’m looking for new talents. 😊
 - 📫 How to reach me valeria.toro@accenture.com
 
 <!---
